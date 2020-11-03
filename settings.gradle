@@ -1,0 +1,3 @@
+include ':toolbox'
+include ':app'
+rootProject.name = "AndroidToolBox"
